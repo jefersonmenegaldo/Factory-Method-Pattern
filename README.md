@@ -1,0 +1,1 @@
+#### Understanding and Implementation of Factory Method Pattern in Delphi
