@@ -6,13 +6,13 @@ program factory_method_pattern;
 
 uses
   System.SysUtils,
-  CheeseCakeInterface in 'CheeseCakeInterface.pas',
-  StrawberryCheeseCake in 'StrawberryCheeseCake.pas',
-  CheeseCakeFactory in 'CheeseCakeFactory.pas',
-  BlueberryCheeseCake in 'BlueberryCheeseCake.pas',
-  MangoCheeseCake in 'MangoCheeseCake.pas',
-  CheeseCakeFactoryGenerator in 'CheeseCakeFactoryGenerator.pas',
-  CoffeeCheeseCake in 'CoffeeCheeseCake.pas';
+  CheeseCakeInterface in 'src\interfaces\CheeseCakeInterface.pas',
+  StrawberryCheeseCake in 'src\StrawberryCheeseCake.pas',
+  CheeseCakeFactory in 'src\CheeseCakeFactory.pas',
+  BlueberryCheeseCake in 'src\BlueberryCheeseCake.pas',
+  MangoCheeseCake in 'src\MangoCheeseCake.pas',
+  CheeseCakeFactoryGenerator in 'src\CheeseCakeFactoryGenerator.pas',
+  CoffeeCheeseCake in 'src\CoffeeCheeseCake.pas';
 
 begin
   try
